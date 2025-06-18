@@ -1,10 +1,6 @@
 # ScreenActionDetection
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/user-attachments/assets/529725f0-5872-4632-841a-a55e2d67a147" width="700">
-</p>
-
-A powerful Python tool for capturing screen activity as a sequence of frames, detecting visual changes, and generating real-time "change heatmaps." This repository provides the foundational vision component for an AI agent that can perceive and understand on-screen events.
+A Python tool for capturing screen activity as a sequence of frames, detecting visual changes, and generating real-time "change heatmaps." This repository provides the foundational vision component for an AI agent that can perceive and understand on-screen events.
 
 The primary goal of this project is to create a robust visual input pipeline that can be fed into advanced multimodal or video understanding models. By capturing and pre-processing screen activity, this tool can empower an AI to determine what actions occurred on a desktop or in a browser.
 
